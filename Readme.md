@@ -1,0 +1,1 @@
+This repository consists of a server client connection framework mainly used by <a href="https://github.com/Deepercreeper/UltiMath">Ultimath</a>.
